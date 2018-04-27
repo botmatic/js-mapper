@@ -1,5 +1,5 @@
 {
-  "name": "js-mapper",
+  "name": "@botmatic/js-mapper",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
